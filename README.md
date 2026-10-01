@@ -220,4 +220,4 @@ MameUI32 is offered as a **full free version**. All features and updates are inc
 Ready to dive back into the arcade? **Download MameUI32 free today and start reliving the classics!**
 
 ---
-**Last updated:** 2026-09-30 22:43:29 UTC
+**Last updated:** 2026-10-01 01:41:17 UTC
